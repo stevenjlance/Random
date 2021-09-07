@@ -15,4 +15,5 @@ The `random()` function accepts a MIN and MAX value and produces a random number
 - Randomly draw an ellipse at an x and y position
 - Randomly change the R, G, and/or B values 
 - BONUS: Make the circles transparent.
+
 ![](FinalImage.gif)
